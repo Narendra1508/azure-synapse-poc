@@ -1,2 +1,2 @@
-# azure-synapse-poc
-This repo acts as a reference to check how synapse data pipelines can be implemented. Also a playground to check different pocs
+# azure-data-engineer-synapse
+Example Synapse workspace repo with code example for Azure Data Engineer training
